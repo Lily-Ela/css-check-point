@@ -1,0 +1,15 @@
+
+  .navbar a:hover {
+    background-color: #ddd;
+    color: black;}
+    li {
+      display: inline;
+    }
+    ul {
+      border: 1px solid #ffdddf;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #ebb9bc;
+    }
+   
